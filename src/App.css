@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-family: "Madimi One", sans-serif;
+  background-image: url(Bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
@@ -15,7 +20,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
